@@ -1,0 +1,37 @@
+#W{
+    background-color: rgb(9, 162, 70);
+    height: 80px;
+}
+#fl{
+    text-decoration: underline wavy;
+}
+#Pa{
+    font-size: 20px;
+}
+.map{
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: space-between;
+    gap: 50px;
+}
+#R{
+    text-decoration: underline wavy;
+}
+#Pa2{
+    font-size: 20px;
+}
+.rain{
+    display: flex;
+    gap: 50px;
+}
+#D{
+    font-size: 20px;
+}
+.dry{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
+#D1{
+    text-decoration: underline wavy;
+}

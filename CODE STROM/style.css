@@ -1,0 +1,159 @@
+.Logo img {
+    border-radius: 50%;
+}
+.Logo{
+    display: flex;
+    
+    justify-content: center;
+    
+}
+#name{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.category{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    /* grid-template-rows: repeat(8,1 fr); */
+    grid-gap: 1px;
+    /* width: 1000px; */
+    height: 40px;
+    text-align: center;
+    
+    
+
+}
+.head{
+    /* position: fixed; */
+    background-color: aliceblue;
+}
+.category>*{
+    
+    background-color: rgb(17, 183, 23);
+
+}
+.body{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1px;
+}
+footer{
+    background-color: rgb(6, 155, 76);
+}
+#para{
+    font-size: 20px;
+}
+.intro{
+    /* text-align: center; */
+    justify-content: left;
+}
+#flood{
+    text-decoration: underline wavy;
+}
+#para2{
+    font-size: 20px;
+}
+#plan{
+    text-decoration: underline wavy;
+}
+.design{
+    display: flex;
+    gap: 65px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.d1{
+    width: 400px;
+    height: 350px;
+    border: solid rgb(86, 88, 67);
+    box-shadow: 3px 6px 9px 2px; 
+    
+}
+.d2{
+    width: 400px;
+    height: 350px;
+    border: solid rgb(86, 88, 67);
+    box-shadow: 3px 6px 9px 2px; 
+    
+}
+.d3{
+    width: 400px;
+    height: 350px;
+    border: solid rgb(86, 88, 67);
+    box-shadow: 3px 6px 9px 2px; 
+}
+.d4{
+    width: 400px;
+    height: 350px;
+    border: solid rgb(86, 88, 67);
+    box-shadow: 3px 6px 9px 2px; 
+}
+.d5{
+    width: 400px;
+    height: 350px;
+    border: solid rgb(86, 88, 67);
+    box-shadow: 3px 6px 9px 2px; 
+}
+.d6{
+    width: 400px;
+    height: 350px;
+    border: solid rgb(86, 88, 67);
+    box-shadow: 3px 6px 9px 2px; 
+}
+#Bar{
+    font-size: 20px;
+}
+#gt{
+    text-decoration: underline wavy;
+}
+.gate{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 65px;
+}
+.g1{
+    width: 400px;
+    height: 350px;
+    border: solid rgb(86, 88, 67);
+    box-shadow: 3px 6px 9px 2px;
+}
+.g2{
+    width: 400px;
+    height: 350px;
+    border: solid rgb(86, 88, 67);
+    box-shadow: 3px 6px 9px 2px;
+}
+.g3{
+    width: 400px;
+    height: 350px;
+    border: solid rgb(86, 88, 67);
+    box-shadow: 3px 6px 9px 2px;
+}
+.g4{
+    width: 400px;
+    height: 350px;
+    border: solid rgb(86, 88, 67);
+    box-shadow: 3px 6px 9px 2px;
+}
+#t1{
+    font-size: 20px;
+}
+#t2{
+    font-size: 20px;
+}
+#t3{
+    font-size: 20px;
+}
+#door1{
+    text-decoration: underline wavy;
+}
+#door2{
+    font-size: 20px;
+}
+.Door{
+    width: 400px;
+    height: 350px;
+    border: solid rgb(86, 88, 67);
+    box-shadow: 3px 6px 9px 2px;
+}
+}
